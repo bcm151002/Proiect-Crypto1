@@ -1,0 +1,25 @@
+﻿  Source.cpp
+D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(33,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(174,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(175,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(178,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(193,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type '__int64'
+  D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(193,12):
+  consider using '%lld' in the format string
+  D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(193,12):
+  consider using '%Id' in the format string
+  D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(193,12):
+  consider using '%I64d' in the format string
+  
+D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(193,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type '__int64'
+  D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(193,12):
+  consider using '%lld' in the format string
+  D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(193,12):
+  consider using '%Id' in the format string
+  D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(193,12):
+  consider using '%I64d' in the format string
+  
+D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(198,46): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(199,46): warning C4244: 'argument': conversion from '__int64' to 'long', possible loss of data
+D:\Anul3-Sem2\Cripto\Tema1\Tema1\Source.cpp(319,1): warning C4715: 'f3': not all control paths return a value
+  Tema1.vcxproj -> D:\Anul3-Sem2\Cripto\Tema1\x64\Debug\Tema1.exe
